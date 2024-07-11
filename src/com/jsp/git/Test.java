@@ -1,8 +1,5 @@
 package com.jsp.git;
 
-public class Test
-{
-	//feature 1
-	//feature 2
-
+public class Test {
+	// Feature 1 added by abc
 }
